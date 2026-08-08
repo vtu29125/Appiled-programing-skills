@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
