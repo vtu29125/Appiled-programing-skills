@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vtu29125/Appiled-programing-skills/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
